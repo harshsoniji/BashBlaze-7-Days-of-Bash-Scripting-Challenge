@@ -3,11 +3,11 @@
 # First line of the script is the shebang which tells the system how to execute
 
 # Task  2: Echo
-echo "Scripting is fun with @TWS"
+echo "Bash Scripting"
 
 # Task  3: Variables
 variable1="Hello"
-variable2="Bash"
+variable2="Bash learner"
 
 # Task  4: Using Variables
 greeting="$variable1, $variable2!"
@@ -24,6 +24,7 @@ echo "My hostname - $HOSTNAME"
 # Task  6: Wildcards
 echo "Files with .txt extension in the current directory:"
 ls *.txt
+
 
 
 
